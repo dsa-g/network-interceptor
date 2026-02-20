@@ -3,6 +3,7 @@
   "name": "Network Editor & Resend",
   "version": "1.0.0",
   "description": "Edit and resend network requests from DevTools",
+  "homepage_url": "https://github.com/dsa-g/network-interceptor",
   "permissions": ["debugger", "storage"],
   "host_permissions": ["<all_urls>"],
   "devtools_page": "devtools.html",
